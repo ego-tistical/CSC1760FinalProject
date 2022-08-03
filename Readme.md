@@ -18,8 +18,8 @@ Display a menu to the user that has the following options:
 a. Write a switch statement that handles the user’s choice. For each of the main menu options, display a 
 submenu that has the following options: 
 
---- Area Menu ---    			--- Volume Menu --- 
-a. Rectangle     				a. Cylinder 
+--- Area Menu ---&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;--- Volume Menu --- 
+a. Rectangle&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Cylinder 
 b. Circle     				b. Sphere 
 c. Right Triangle     			c. Main menu                                               
 d. Main menu 
