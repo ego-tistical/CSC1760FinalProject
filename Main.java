@@ -8,7 +8,6 @@ public class Main {
 		System.out.println("-----------------");
 		System.out.println("--- Main Menu ---");
 		System.out.println("-----------------");
-		System.out.println("Designed by NChandler");
 		System.out.println("1. Calculate Area");
         System.out.println("2. Calculate Volume");
         System.out.println("3. Draws a rectangle");
