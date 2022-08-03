@@ -18,12 +18,17 @@ Display a menu to the user that has the following options:
 a. Write a switch statement that handles the user’s choice. For each of the main menu options, display a 
 submenu that has the following options: 
 
---- Area Menu ---&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;--- Volume Menu --- 
-a. Rectangle&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Cylinder 
-b. Circle     				b. Sphere 
-c. Right Triangle     			c. Main menu                                               
+--- Area Menu --- 
+a. Rectangle 
+b. Circle
+c. Right Triangle     		                                              
 d. Main menu 
- 
+
+--- Volume Menu ---
+a. Cylinder
+b. Sphere
+c. Main menu 
+         
 b.  Write  nested  switch  statements  and  methods  to  handle  each  of  the  submenus.  For  all  of  the  switch 
 statements,  use  the  default  case  to  handle  any  incorrect  menu  options.  If  you  are  unsure  of  the  correct 
 formulas, research them on the Internet or in your math books. Display the results of each of the calculations 
