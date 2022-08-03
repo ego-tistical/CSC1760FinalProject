@@ -8,6 +8,7 @@ This project is to write a program that takes input from the user and calculate 
 circle, right triangle, cylinder, and sphere and draw a rectangle.  
  
 Display a menu to the user that has the following options:
+
 --- Main Menu --- 
 1. Calculate Area 
 2. Calculate Volume 
@@ -16,6 +17,7 @@ Display a menu to the user that has the following options:
  
 a. Write a switch statement that handles the user’s choice. For each of the main menu options, display a 
 submenu that has the following options: 
+
 --- Area Menu ---    			--- Volume Menu --- 
 a. Rectangle     				a. Cylinder 
 b. Circle     				b. Sphere 
